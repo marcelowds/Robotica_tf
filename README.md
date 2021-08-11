@@ -6,7 +6,7 @@ Também é possível rodar o algoritmo usando outras plantas de casas.
 
 2 - Abrir o Gazebo, clicar em insert e adicionar o modelo `maze`.
 
-3 - Incluir o robô `burguer`.
+3 - Adicionar o robô `burguer`.
 
 3 - Executar o código `1-maze_solver.py`.
 
