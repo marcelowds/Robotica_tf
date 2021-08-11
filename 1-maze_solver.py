@@ -35,7 +35,7 @@ def follow_the_wall():
 def timer_callback():
     msg = Twist()
     
-    #Divide em faixas de 16 graus
+    #Divide em faixas de 36 graus
     #faixa1 = scan[270:306]
     faixa2 = scan[307:342]
     faixa3 = scan[343:]+scan[:18]
