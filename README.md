@@ -7,3 +7,5 @@ Também é possível rodar o algoritmo usando outras plantas de casas.
 2 - Abrir o Gazebo e incluir o robô `burguer`.
 
 3 - Executar o código `1-maze_solver.py`.
+
+Para uma demonstração da execução, ver: https://www.youtube.com/watch?v=Rjve-MeL17Q
