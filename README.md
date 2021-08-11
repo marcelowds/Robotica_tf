@@ -4,7 +4,9 @@ Deve-se localizar a pasta `building_editor_models` onde ficam os modelos criados
 
 Também é possível rodar o algoritmo usando outras plantas de casas.
 
-2 - Abrir o Gazebo e incluir o robô `burguer`.
+2 - Abrir o Gazebo, clicar em insert e adicionar o modelo `maze`.
+
+3 - Incluir o robô `burguer`.
 
 3 - Executar o código `1-maze_solver.py`.
 
